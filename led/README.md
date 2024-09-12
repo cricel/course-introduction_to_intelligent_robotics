@@ -1,2 +1,2 @@
 # LED
-![alt text](base_led-1.png)
+![alt text](led.png)
