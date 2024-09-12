@@ -1,4 +1,4 @@
-# LED
+# OLED
 ![alt text](oled.png)
 
 ## Library Required
