@@ -2,8 +2,10 @@
 ![alt text](oled.png)
 
 ## Library Required
-u8g2 
+u8g2
+
 Adafruit SSD1306
+
 Adafruit GFX Library
 
 ## API Reference
